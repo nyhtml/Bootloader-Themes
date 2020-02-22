@@ -1,5 +1,5 @@
 # Clover EFI Bootloader Manager Themes
-★ iHack Pro – Download for Hackintosh Systems. [<a href="https://www.dualbootpc.com/wp-content/uploads/iHackPro.png">screenshot</a>]<br>
+★ iHack Pro – Download for Hackintosh Systems. [<a href="https://www.dualbootpc.com/wp-content/uploads/iHackPro.png" target="_blank">screenshot</a>]<br>
 ★ iLid Pro – Download for HackBook Systems. [screenshot]<br>
 ★ iServe Pro – Download for Server Systems. [screenshot]<br>
 ★ iSet Pro – Download for USB Installers. [screenshot]<br>
