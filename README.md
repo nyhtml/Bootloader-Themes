@@ -1,5 +1,9 @@
-# Bootloader-Themes
-Custom bootloader themes
+# Clover EFI Bootloader Manager Themes
+★ iHack Pro – Download for Hackintosh Systems. [screenshot]<br>
+★ iLid Pro – Download for HackBook Systems. [screenshot]<br>
+★ iServe Pro – Download for Server Systems. [screenshot]<br>
+★ iSet Pro – Download for USB Installers. [screenshot]<br>
+★ iSeven Pro – Download for Windows Systems. [screenshot]<br>
 
 # Installation
 ★ Download the .zip of the theme and unpack the contents of the archive.<br>
