@@ -11,7 +11,7 @@ Under Development
 ★ iSet Pro – Download and <a href="/INSTALL.md">install</a> for USB Installers. [<a href="https://www.gixxerpc.com/theme/iset-pro/#github" target="_blank">screenshot</a>]<br>
 ★ iSeven Pro – Download and <a href="/INSTALL.md">install</a> for Windows Systems. [<a href="https://www.gixxerpc.com/theme/iseven-pro/#github" target="_blank">screenshot</a>]<br>
 
-★ iSeven – Download and <a href="/INSTALL.md">install</a> for Windows Systems. [screenshot]<br>
+★ iSeven – Download and <a href="/INSTALL.md">install</a> for Windows Systems. [<a href="https://www.gixxerpc.com/theme/iseven/#github" target="_blank">screenshot</a>]<br>
 
 ★ Palindrome – Download and <a href="/INSTALL.md">install</a> for USB Installers. [<a href="https://www.gixxerpc.com/theme/iset-pro/#github" target="_blank">screenshot</a>]<br>
 ★ proTRON – Download and <a href="/INSTALL.md">install</a> exclusively  for our Arctic Fox Hackintosh System. <a href="https://www.gixxerpc.com/theme/proTRON/#github" target="_blank">screenshot</a>]<br>
