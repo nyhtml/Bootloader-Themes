@@ -1,8 +1,8 @@
 # Themes for Chameleon Bootloader
-Under Development
+★ Under Development
 
 # Themes for Chimera Bootloader
-Under Development
+★ Under Development
 
 # Themes for Clover Bootloader
 ★ iHack Pro – Download and <a href="/Clover_Install.md">install</a> for Hackintosh Systems. [<a href="https://www.gixxerpc.com/theme/ihack-pro/#github" target="_blank">screenshot</a>]<br>
@@ -17,7 +17,7 @@ Under Development
 ★ proTRON – Download and <a href="/Clover_Install.md">install</a> for Hackintosh Systems. <a href="https://www.gixxerpc.com/theme/proTRON/#github" target="_blank">screenshot</a>]<br>
 
 # Themes for OpenCore Bootloader
-Under Development
+★ Under Development
 
 # Themes for Ozmosis Bootloader
-Under Development
+★ Under Development
