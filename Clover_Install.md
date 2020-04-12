@@ -2,7 +2,7 @@
 ★ Download the .zip of the theme and unpack the contents of the archive.<br>
 ★ Mount the ESP of your boot drive.<br>
 ★ Open <b>EFI>EFI>CLOVER>themes</b>.<br>
-★ Copy the unpacked iHack Pro theme and paste in the themes folder.<br>
+★ Copy the unpacked theme and paste in the themes folder.<br>
 ★ Open the <b>EFI>EFI>CLOVER>config.plist</b> file in an editor.<br>
 ★ Change the theme name to match.<br>
 ★ Set the resolution to match your primary monitor then save.<br>
