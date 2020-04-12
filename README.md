@@ -14,7 +14,7 @@
 ★ iSeven – Download and <a href="/Clover_Install.md">install</a> for Windows Systems. [<a href="https://www.gixxerpc.com/theme/iseven/#github" target="_blank">screenshot</a>]<br>
 
 ★ Palindrome – Download and <a href="/Clover_Install.md">install</a> for USB Installers. [<a href="https://www.gixxerpc.com/theme/iset-pro/#github" target="_blank">screenshot</a>]<br>
-★ proTRON – Download and <a href="/Clover_Install.md">install</a> for Hackintosh Systems. <a href="https://www.gixxerpc.com/theme/proTRON/#github" target="_blank">screenshot</a>]<br>
+★ proTRON – Download and <a href="/Clover_Install.md">install</a> for Hackintosh Systems. <a href="https://www.gixxerpc.com/theme/tron/#github" target="_blank">screenshot</a>]<br>
 
 # Themes for OpenCore Bootloader
 ★ Under Development
