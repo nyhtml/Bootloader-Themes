@@ -5,7 +5,7 @@
 * Themes for OpenCore Bootloader
 * Themes for Ozmosis Bootloader
 
-# Manual Insstallation
+# Manual Installation
 * Installation for Chameleon Bootloader
 * Installation for Chimera Bootloader
 * <a href="/Clover_Install.md">Installation for Clover Bootloader</a>
